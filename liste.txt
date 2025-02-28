@@ -1,5 +1,5 @@
-1- video paylaşma
+1- canlı yayın gerçekleştirme
 2- video yükleme
-3- canlı yayın gerçekleştirme
+3- video paylaşma
 4- anket doldurabilme
 5- abone olma

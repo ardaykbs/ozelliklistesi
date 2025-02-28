@@ -1,0 +1,4 @@
+1- video paylaşma
+2- video yükleme
+3- canlı yayın gerçekleştirme
+4- anket doldurabilme

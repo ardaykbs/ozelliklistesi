@@ -2,3 +2,4 @@
 2- video yükleme
 3- canlı yayın gerçekleştirme
 4- anket doldurabilme
+5- abone olma
